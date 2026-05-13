@@ -16,7 +16,7 @@ public class Main {
 
             if (p instanceof Ewallet) {
                 Ewallet ew = (Ewallet) p;
-                ew.bayar(100000, "081298765432");
+                ew.bayar(100000, "08121008451");
             } 
             // Cek jika objek adalah KartuKredit
             else if (p instanceof KartuKredit) {
